@@ -1,0 +1,7 @@
+Spring Boot :
+
+This repo walks through spring boot application required for
+starting and slow get going.
+
+This involves normal bean creation, data binding,
+rest integrated ones.
